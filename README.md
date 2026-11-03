@@ -1,2 +1,4 @@
 # UrbanLegends
-Open-world action game. Explore a living city, drive, fight, make choices. Built with Godot 4.
+Экшен с открытым миром. Исследуйте живой город, управляйте автомобилем, сражайтесь, делайте выбор. Создан на основе Godot 4.
+# ВНИМАНИЕ⚠️ 
+Игра без текстур и 3D-моделей
